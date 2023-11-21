@@ -1,0 +1,11 @@
+attrs
+datargs
+torch
+torchvision
+matplotlib
+pytorch_lightning
+lightning-bolts
+wandb
+numpy
+torch_fidelity
+pandas
